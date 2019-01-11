@@ -49,8 +49,7 @@ class MyApp extends StatelessWidget {
               ],
             ),
           ),
-          Icon(Icons.star, color: Colors.red[500]),
-          Text('41'),
+          FavoriteWidget(),
         ],
       ),
     );
