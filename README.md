@@ -11,6 +11,7 @@ This repository stores demos that used to study Flutter. Most of them are follow
 | baby_names_with_firebase | **[Exercise 3]** Firebase set-up, and connect to Firebase database | [codelab](https://codelabs.developers.google.com/codelabs/flutter-firebase/#0) |
 | basic_layouts            | **[Exercise 4]** Layout tutorial                             | [url](https://flutter.io/docs/development/ui/layout/tutorial) |
 | hero_animation            | **[Exercise 5]** Hero Animations                             | [url](https://flutter.dev/docs/development/ui/animations/hero-animations) |
+| take_photo            | **[Exercise 6]** Take a picture using the Camera                             | [url](https://flutter.dev/docs/cookbook/plugins/picture-using-camera) |
 | friendlychat             | Building Beautiful UIs with Flutter                          | [codelab](https://codelabs.developers.google.com/codelabs/flutter/#0) |
 
 ## Built With
