@@ -6,9 +6,11 @@ This repository stores demos that used to study Flutter. Most of them are follow
 
 | project name             | Introduction                                                 | url                                                          |
 | ------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| hello_world           | **[Exercise 1]** “Hello World” Flutter App                             |  |
 | startup_name_generator   | **[Exercise 2]** Your First Flutter App                      | [codelab](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1/#0) |
 | baby_names_with_firebase | **[Exercise 3]** Firebase set-up, and connect to Firebase database | [codelab](https://codelabs.developers.google.com/codelabs/flutter-firebase/#0) |
 | basic_layouts            | **[Exercise 4]** Layout tutorial                             | [url](https://flutter.io/docs/development/ui/layout/tutorial) |
+| hero_animation            | **[Exercise 5]** Hero Animations                             | [url](https://flutter.dev/docs/development/ui/animations/hero-animations) |
 | friendlychat             | Building Beautiful UIs with Flutter                          | [codelab](https://codelabs.developers.google.com/codelabs/flutter/#0) |
 
 ## Built With
